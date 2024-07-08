@@ -1,0 +1,6 @@
+/* CSS HEX */
+midnight: #2e294eff;
+pink: #efbcd5ff;
+lavender: #be97c6ff;
+
+purple : #835779 (plum web)

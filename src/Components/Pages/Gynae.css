@@ -1,0 +1,13 @@
+.modal-body{
+    text-decoration: none;
+    font-size: 24px;
+}
+.gynae-img img{
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.gynae-info p{
+    font-size: 15px;
+}
